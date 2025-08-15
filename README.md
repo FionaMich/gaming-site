@@ -9,8 +9,7 @@ A modern web application built with Next.js 14, TypeScript, and Tailwind CSS. Th
 - 🎨 Tailwind CSS for styling
 - 📱 Fully responsive design
 - ♿ Accessibility focused
-- 🔒 Modern authentication system
-- 🌐 API routes for backend functionality
+
 
 ## Getting Started
 
